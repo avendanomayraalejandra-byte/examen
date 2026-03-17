@@ -1,0 +1,30 @@
+Algoritmo parqueaderodisponibilidad
+	definir  entrada, salida, disponibilidad como entero
+	Escribir "digite entrada"
+	leer a
+	escribir "digite salida"
+	leer b
+	escribir "digite disponibilidad"
+	leer c
+	
+	escribir "registra disponibilidad"
+	
+	escribir "registra entrada"
+	
+	Escribir "registra salida"
+	leer menu
+	
+	disponibilidad >=0
+	salir =0
+	
+			Repetir dispobilidad <-20 
+				escribir "si hay disponibilidad", cantidad
+				escribir "no hay disponiblidad", cantidad
+				
+			Hasta Que (el usuario seleccione 0)
+		
+			escribir  "espacios disponibles",
+			
+	
+	
+FinAlgoritmo
